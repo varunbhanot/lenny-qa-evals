@@ -1,0 +1,6 @@
+# Lenny's transcripts are copyrighted. Do not commit them.
+# Download locally with: python scripts/fetch_transcripts.py
+transcripts/
+*.pyc
+__pycache__/
+answer_key.csv
